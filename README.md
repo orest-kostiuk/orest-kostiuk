@@ -35,4 +35,4 @@ src="https://img.shields.io/github/followers/orest-kostiuk?logo=github&style=for
 
 <a href="http://www.github.com/orest-kostiuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orest-kostiuk&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/orest-kostiuk" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orest-kostiuk&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/orest-kostiuk" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orest-kostiuk&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
